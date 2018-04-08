@@ -1,0 +1,5 @@
+FB
+AMZN
+AAPL
+NFLX
+GOOG
