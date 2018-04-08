@@ -1,1 +1,1 @@
-# StockerPredictor
+# StockPredictor
